@@ -1,4 +1,4 @@
-module project(
+module Shift_R_Reg_8bit(
 output reg [7:0] R_color,//顯示紅色燈
 output reg [7:0] G_color, //顯示綠色燈
 output reg [7:0] B_color, //顯示藍色燈
